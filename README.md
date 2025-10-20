@@ -1,0 +1,1 @@
+# slovosled-automation
